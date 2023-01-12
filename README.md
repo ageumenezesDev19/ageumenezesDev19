@@ -16,7 +16,7 @@
 
 <div id="gitHub-data" style="text-align: center;">
     <div id="gitHub-stats">
-        <a href="http://github.com/ageumenezesDev19"><img aling="center" height="251em" src="https://github-readme-stats.vercel.app/api?username=ageumenezesDev19&show_icons=true&theme=radical&title_color=green"></a>
+        <a href="http://github.com/ageumenezesDev19"><img aling="center" height="251em" src="https://github-readme-stats.vercel.app/api?username=ageumenezesDev19&show_icons=true&theme=radical&title_color=green"></a> 
     </div>
     <div id="gitHub-most-used-languages">
         <a href="http://github.com/ageumenezesDev19"><img aling="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ageumenezesDev19&layout=compact&theme=radical&card_width=446px"></a>
