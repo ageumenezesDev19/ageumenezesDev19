@@ -10,7 +10,7 @@
 
 #
 
-<!-- <div id="gitHub-gif">
+<div id="gitHub-gif">
     <a href="http://github.com/ageumenezesDev19"><img src="/gif/akudama-drive-anime_4.1.gif" alt="akudama-drive-anime"></a>
 </div>
 
@@ -19,9 +19,9 @@
         <a href="http://github.com/ageumenezesDev19"><img aling="center" height="251em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ageumenezesDev19&show_icons=true&theme=radical&title_color=green"></a>
     </div>
     <div id="gitHub-most-used-languages">
-        <a href="http://github.com/ageumenezesDev19"><img aling="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ageumenezesDev19&layout=compact&theme=radical&card_width=446px"></a>
+        <a href="http://github.com/ageumenezesDev19"><img aling="center" height="218em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ageumenezesDev19&layout=compact&theme=radical&card_width=446px"></a>
     </div>
-</div> -->
+</div>
 
 #
 
