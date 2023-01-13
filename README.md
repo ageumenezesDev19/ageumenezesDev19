@@ -1,16 +1,16 @@
 # 👋 Hi, I’m ageumenezesDev19, a Dev and Technology Enthusiast
-- 📗 I am currently studying at Rocketseat and Udemy;
+- 📗 I am currently studying at Rocketseat, Cataline and Udemy;
 - 👀 I’m interested in Web Development, Design and Soft Skills;
 - 🌱 I’m currently improving my skills in CSS, JavaScript, Jest, DOM, Programming logic,
      soft skills such as emotional intelligence, communication and creativity.
-     Also learning React.js!
+     Also learning React.js and TypeScript!
 
 - 🎬 I really enjoy watching science fiction, animation and adventure movies;
 - 🎵 Furthermore, I love listening to international and electronic music.
 
 #
 
-<div id="gitHub-gif">
+<!-- <div id="gitHub-gif">
     <a href="http://github.com/ageumenezesDev19"><img src="/gif/akudama-drive-anime_4.1.gif" alt="akudama-drive-anime"></a>
 </div>
 
@@ -21,7 +21,7 @@
     <div id="gitHub-most-used-languages">
         <a href="http://github.com/ageumenezesDev19"><img aling="center" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ageumenezesDev19&layout=compact&theme=radical&card_width=446px"></a>
     </div>
-</div>
+</div> -->
 
 #
 
