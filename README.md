@@ -2,8 +2,7 @@
 - 📗 I am currently studying at Rocketseat, Cataline and Udemy;
 - 👀 I’m interested in Web Development, Design and Soft Skills;
 - 🌱 I’m currently improving my skills in SASS, JavaScript, Jest, Reactjs, Programming logic,
-     soft skills such as emotional intelligence, communication and creativity.
-     Also learning React.js and TypeScript!
+     soft skills such as emotional intelligence, communication and creativity!
 
 - 🎬 I really enjoy watching science fiction, animation and adventure movies;
 - 🎵 Furthermore, I love listening to international and electronic music.
