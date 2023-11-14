@@ -1,4 +1,4 @@
-# 👋 Hi, I’m ageumenezesDev19, a Front-end Web Developer and Technology Enthusiast
+# 👋 Hi, I’m Ageu Menezes, a Front-end Web Developer and Technology Enthusiast
 - 📗 I am currently working as a freelancer and studying at Rocketseat, Cataline and Udemy;
 - 👀 I’m interested in Web Development, Design, Video Editing and Soft Skills;
 - 🌱 I’m also improving my skills in SASS, JavaScript, Jest, Reactjs, Programming logic,
