@@ -1,7 +1,7 @@
 # 👋 Hi, I’m ageumenezesDev19, a Front-end Developer and Technology Enthusiast
-- 📗 I am currently studying at Rocketseat, Cataline and Udemy;
-- 👀 I’m interested in Web Development, Design and Soft Skills;
-- 🌱 I’m currently improving my skills in SASS, JavaScript, Jest, Reactjs, Programming logic,
+- 📗 I am currently working as a freelancer and studying at Rocketseat, Cataline and Udemy;
+- 👀 I’m interested in Web Development, Design, Video Editing and Soft Skills;
+- 🌱 I’m also improving my skills in SASS, JavaScript, Jest, Reactjs, Programming logic,
      soft skills such as emotional intelligence, communication and creativity!
 
 - 🎬 I really enjoy watching science fiction, animation and adventure movies;
