@@ -30,7 +30,7 @@
     <a href="https://git-scm.com"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></a>
     <a href="https://www.w3schools.com/css/css_intro.asp"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40px"/></a>
     <a href="https://pt-br.reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px"/></a>
-    <a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40px"/><a/>
+    <a href="https://nextjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40px"/><a/>
     <a href="https://code.visualstudio.com"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" style="margin-right: 1%;"/></a>
     <a href="https://jestjs.io"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/></a>
     <a href="https://www.adobe.com/br/products/premiere.html?sdid=KQPPT&mv=search&ef_id=Cj0KCQiAgP6PBhDmARIsAPWMq6mZTNqhQpgT7nwaMfpQyo40rk2_RF0_nX_AeMzXAQ1-KTI5HkpAqxwaAre5EALw_wcB:G:s&s_kwcid=AL!3085!3!473120544216!e!!g!!premiere%20pro!188196342!10039612422&gclid=Cj0KCQiAgP6PBhDmARIsAPWMq6mZTNqhQpgT7nwaMfpQyo40rk2_RF0_nX_AeMzXAQ1-KTI5HkpAqxwaAre5EALw_wcB"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40px"/></a>
