@@ -14,7 +14,16 @@
         <img src="/gif/akudama-drive-anime_4.1.gif" alt="akudama-drive-anime" style="width: 62.5rem; height: 31.2rem; margin: 0.5rem;">
     </a>
     <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/image-workflow.gif" alt="Image Workflow" style="width: 62.5rem; height: 31.2rem; margin: 0.5rem;">
+        <img src="/gif/image-workflow.gif" alt="Image Workflow" style="width: 52.5rem; height: 31.2rem; margin: 0.5rem;">
+    </a>
+    <a href="http://github.com/ageumenezesDev19">
+        <img src="/gif/moonwalking-parrot.gif" alt="Another parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
+    </a>
+    <a href="http://github.com/ageumenezesDev19">
+        <img src="/gif/cult-of-the-party-parrot.gif" alt="Parrot Icon gif" style="width: 50px; height: 50px; margin: 0.5rem;">
+    </a>
+    <a href="http://github.com/ageumenezesDev19">
+        <img src="/gif/jumping-parrot.gif" alt="Jumping Parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
     </a>
     <a href="http://github.com/ageumenezesDev19">
         <img src="/gif/moonwalking-parrot.gif" alt="Another parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
