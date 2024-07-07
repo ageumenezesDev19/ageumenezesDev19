@@ -14,7 +14,7 @@
         <img src="/gif/akudama-drive-anime_4.1.gif" alt="akudama-drive-anime" style="width: 72.5rem; height: 41.2rem; margin: 0.5rem;">
     </a>
     <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/image-workflow.gif" alt="Image Workflow" style="width: 800px; height: 350px; margin: 0.5rem;">
+        <img src="/gif/image-workflow.gif" alt="Image Workflow" style="width: 700px; height: 350px; margin: 0.5rem;">
     </a>
     <a href="http://github.com/ageumenezesDev19">
         <img src="/gif/moonwalking-parrot.gif" alt="Another parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
