@@ -11,10 +11,10 @@
 
 <div id="gitHub-gif" style="display: flex; justify-content: center; flex-wrap: wrap;">
     <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/akudama-drive-anime_4.1.gif" alt="akudama-drive-anime" style="width: 500px; height: 500px; margin: 5px;">
+        <img src="/gif/akudama-drive-anime_4.1.gif" alt="akudama-drive-anime" style="width: 1000px; height: 500px; margin: 5px;">
     </a>
     <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/image-workflow.gif" alt="Image Workflow" style="width: 500px; height: 500px; margin: 5px;">
+        <img src="/gif/image-workflow.gif" alt="Image Workflow" style="width: 1000px; height: 500px; margin: 5px;">
     </a>
     <a href="http://github.com/ageumenezesDev19">
         <img src="/gif/moonwalking-parrot.gif" alt="Another parrot" style="width: 50px; height: 50px; margin: 5px;">
