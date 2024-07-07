@@ -11,6 +11,12 @@
 
 <div id="gitHub-gif">
     <a href="http://github.com/ageumenezesDev19"><img src="/gif/akudama-drive-anime_4.1.gif" alt="akudama-drive-anime"></a>
+    <a href="http://github.com/ageumenezesDev19"><img src="/gif/image-workflow.gif" alt="Image Workflow"></a>
+    <a href="http://github.com/ageumenezesDev19"><img src="/gif/cult-of-the-party-parrot.gif" alt="Parrot Icon gif"></a>
+    <a href="http://github.com/ageumenezesDev19"><img src="/gif/jumping-parrot.gif" alt="Jumping Parrot"></a>
+    <a href="http://github.com/ageumenezesDev19"><img src="/gif/moonwalking-parrot.gif" alt="Another parrot"></a>
+    <a href="http://github.com/ageumenezesDev19"><img src="/gif/line.gif" alt="Line Gif">
+    <a>
 </div>
 
 <div id="gitHub-data" style="text-align: center;">
