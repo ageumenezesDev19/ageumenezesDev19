@@ -35,6 +35,24 @@
         <img src="/gif/jumping-parrot.gif" alt="Jumping Parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
     </a>
     <a href="http://github.com/ageumenezesDev19">
+        <img src="/gif/moonwalking-parrot.gif" alt="Another parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
+    </a>
+    <a href="http://github.com/ageumenezesDev19">
+        <img src="/gif/jumping-parrot.gif" alt="Jumping Parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
+    </a>
+    <a href="http://github.com/ageumenezesDev19">
+        <img src="/gif/moonwalking-parrot.gif" alt="Another parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
+    </a>
+    <a href="http://github.com/ageumenezesDev19">
+        <img src="/gif/jumping-parrot.gif" alt="Jumping Parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
+    </a>
+    <a href="http://github.com/ageumenezesDev19">
+        <img src="/gif/moonwalking-parrot.gif" alt="Another parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
+    </a>
+    <a href="http://github.com/ageumenezesDev19">
+        <img src="/gif/jumping-parrot.gif" alt="Jumping Parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
+    </a>
+    <a href="http://github.com/ageumenezesDev19">
         <img src="/gif/jumping-parrot.gif" alt="Jumping Parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
     </a>
     <a href="http://github.com/ageumenezesDev19">
