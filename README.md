@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Ageu Menezes, a Front-end Web Developer and Technology Enthusiast
-- 📗 I am currently working as a freelancer and studying at Rocketseat, Cataline and Udemy;
-- 👀 I’m interested in Web Development, Design, Video Editing and Soft Skills;
-- 🌱 I’m also improving my skills in SASS, JavaScript, Jest, Reactjs, Programming logic,
-     soft skills such as emotional intelligence, communication and creativity!
+# 👋 Hi, I’m Ageu Menezes, a Front-End Developer who ships full products
+- 🏭 Currently the sole front-end engineer of a production inventory management system, used daily by a retail client (freelance, under NDA);
+- 📗 Trained full-stack at Trybe (1500-hour program) and specializing at Rocketseat — React, Next.js, Node.js, DDD and DevOps;
+- 🛠️ Building with React, Next.js, TypeScript, Tailwind CSS, Node.js, Docker and Playwright;
+- 🌐 Check out my portfolio: https://ageumenezes-dp-2.vercel.app
 
 - 🎬 I really enjoy watching science fiction, animation and adventure movies;
 - 🎵 Furthermore, I love listening to international and electronic music.
