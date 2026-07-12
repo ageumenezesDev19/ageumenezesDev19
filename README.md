@@ -5,7 +5,6 @@
 - 🏭 Currently the sole front-end engineer of a **production inventory management system** used daily by a retail client (freelance, under NDA)
 - 🎓 Trained full-stack at **Trybe** (1500-hour program) · ongoing specialization at **Rocketseat** (React, Next.js, Node.js, DDD, DevOps)
 - 🌎 Ceará, Brazil (UTC-3) · Portuguese (native) · English (professional)
-- 🌐 **Portfolio:** https://ageumenezes-dp-2.vercel.app
 
 ## Featured projects
 
