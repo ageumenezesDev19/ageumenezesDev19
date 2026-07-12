@@ -30,6 +30,5 @@
 
 ## Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-F59E0B?style=flat-square&logo=googlechrome&logoColor=0B1120)](https://ageumenezes-dp-2.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ageu-menezes-silva-dev/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ageumenezes23@gmail.com)
