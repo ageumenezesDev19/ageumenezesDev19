@@ -1,112 +1,36 @@
-# 👋 Hi, I’m Ageu Menezes, a Front-end Web Developer and Technology Enthusiast
-- 📗 I am currently working as a freelancer and studying at Rocketseat, Cataline and Udemy;
-- 👀 I’m interested in Web Development, Design, Video Editing and Soft Skills;
-- 🌱 I’m also improving my skills in SASS, JavaScript, Jest, Reactjs, Programming logic,
-     soft skills such as emotional intelligence, communication and creativity!
+# Hi, I'm Ageu Menezes 👋
 
-- 🎬 I really enjoy watching science fiction, animation and adventure movies;
-- 🎵 Furthermore, I love listening to international and electronic music.
+**Front-end developer who ships full products** — React, Next.js and TypeScript, with the backend and DevOps skills to take an idea from design to production.
 
-#
+- 🏭 Currently the sole front-end engineer of a **production inventory management system** used daily by a retail client (freelance, under NDA)
+- 🎓 Trained full-stack at **Trybe** (1500-hour program) · ongoing specialization at **Rocketseat** (React, Next.js, Node.js, DDD, DevOps)
+- 🌎 Ceará, Brazil (UTC-3) · Portuguese (native) · English (professional)
+- 🌐 **Portfolio:** https://ageumenezes-dp-2.vercel.app
 
-<div id="gitHub-gif" style="display: flex; justify-content: center; flex-wrap: wrap;">
-    <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/moonwalking-parrot.gif" alt="Another parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
-    </a>
-    <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/jumping-parrot.gif" alt="Jumping Parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
-    </a>
-    <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/moonwalking-parrot.gif" alt="Another parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
-    </a>
-    <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/jumping-parrot.gif" alt="Jumping Parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
-    </a>
-    <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/moonwalking-parrot.gif" alt="Another parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
-    </a>
-    <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/jumping-parrot.gif" alt="Jumping Parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
-    </a>
-    <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/moonwalking-parrot.gif" alt="Another parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
-    </a>
-    <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/jumping-parrot.gif" alt="Jumping Parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
-    </a>
-    <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/moonwalking-parrot.gif" alt="Another parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
-    </a>
-    <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/jumping-parrot.gif" alt="Jumping Parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
-    </a>
-    <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/moonwalking-parrot.gif" alt="Another parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
-    </a>
-    <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/jumping-parrot.gif" alt="Jumping Parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
-    </a>
-    <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/moonwalking-parrot.gif" alt="Another parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
-    </a>
-    <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/jumping-parrot.gif" alt="Jumping Parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
-    </a>
-    <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/moonwalking-parrot.gif" alt="Jumping Parrot" style="width: 50px; height: 50px; margin: 0.5rem;">
-    </a>
-    <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/image-workflow.gif" alt="Image Workflow" style="width: 62.5rem; height: 31.2rem; margin: 0.5rem;">
-    </a>
-    <!-- <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/akudama-drive-anime_4.1.gif" alt="akudama-drive-anime" style="width: 72.5rem; height: 41.2rem; margin: 0.5rem;">
-    </a> -->
-    <a href="http://github.com/ageumenezesDev19">
-        <img src="/gif/line.gif" alt="Line Gif" style="margin: 0.5rem;">
-    </a>
-</div>
+## Featured projects
 
-<div id="gitHub-data" style="text-align: center;">
-    <div id="gitHub-stats">
-        <a href="http://github.com/ageumenezesDev19"><img aling="center" height="251em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ageumenezesDev19&show_icons=true&theme=radical&title_color=green"></a>
-    </div>
-    <div id="gitHub-most-used-languages">
-        <a href="http://github.com/ageumenezesDev19"><img aling="center" height="218em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ageumenezesDev19&layout=compact&theme=radical&card_width=446px"></a>
-    </div>
-</div>
+| Project | What it is | Stack | Links |
+|---|---|---|---|
+| **Client inventory system** | Production stock & production-tracking system for a retail client — role-based auth, XLSX/PDF/DOCX reports, Playwright e2e | Next.js 15 · React 19 · TS | Under NDA — [ask me about it](https://ageumenezes-dp-2.vercel.app/#contact) |
+| **[DesPensa](https://github.com/ageumenezesDev19/DesPensa-)** | Cross-platform desktop inventory manager | Tauri · React · TS | [Live](https://des-pensa.vercel.app) |
+| **[Habits](https://github.com/ageumenezesDev19/habits-web)** | Full-stack habit tracker: web + API + mobile | React · Node.js · React Native | [Server](https://github.com/ageumenezesDev19/habits-server) · [Mobile](https://github.com/ageumenezesDev19/habits-mobile) |
+| **[FitFlow](https://github.com/ageumenezesDev19/fitflow)** | Pomodoro + exercise reminders for devs | Next.js · TS | [Live](https://fitflow-taupe.vercel.app) |
+| **[ChronoTrack](https://github.com/ageumenezesDev19/chrono-track)** | Time management with cycle timers and history | React · Vite · Zod | — |
+| **[Ignite Shop](https://github.com/ageumenezesDev19/04-ignite-shop)** | E-commerce with real Stripe checkout | Next.js · Stripe | [Live](https://04-ignite-shop-roan.vercel.app) |
 
-#
+## Stack
 
-<div id="my-hard-skills" style="text-align: center;">
-    <a href="https://www.w3schools.com/js/js_intro.asp"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="border-radius: 5px;"/></a>
-    <a href="https://www.w3schools.com/html/"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40px"/></a>
-    <a href="https://git-scm.com"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/></a>
-    <a href="https://www.w3schools.com/css/css_intro.asp"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40px"/></a>
-    <a href="https://sass-lang.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40px"/></a>
-    <a href="https://pt-br.reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40px"/></a>
-    <a href="https://code.visualstudio.com"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" style="margin-right: 1%;"/></a>
-    <a href="https://jestjs.io"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/></a>
-    <a href="https://www.adobe.com/br/products/premiere.html?sdid=KQPPT&mv=search&ef_id=Cj0KCQiAgP6PBhDmARIsAPWMq6mZTNqhQpgT7nwaMfpQyo40rk2_RF0_nX_AeMzXAQ1-KTI5HkpAqxwaAre5EALw_wcB:G:s&s_kwcid=AL!3085!3!473120544216!e!!g!!premiere%20pro!188196342!10039612422&gclid=Cj0KCQiAgP6PBhDmARIsAPWMq6mZTNqhQpgT7nwaMfpQyo40rk2_RF0_nX_AeMzXAQ1-KTI5HkpAqxwaAre5EALw_wcB"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40px"/></a>
-    <a href="https://www.adobe.com/br/products/aftereffects/campaign/pricing.html?sdid=KQPOM&mv=search&ef_id=Cj0KCQiAgP6PBhDmARIsAPWMq6mtPsv8V4fF8mQXnQqVd9W_kYDxwmLFatACyOLQavbsMfrNEysYzrcaAl0VEALw_wcB:G:s&s_kwcid=AL!3085!3!301784448894!e!!g!!after%20effects!188195862!10039608942&gclid=Cj0KCQiAgP6PBhDmARIsAPWMq6mtPsv8V4fF8mQXnQqVd9W_kYDxwmLFatACyOLQavbsMfrNEysYzrcaAl0VEALw_wcB"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40px"/></a>
-    <a href="https://www.adobe.com/br/products/photoshop/landpa.html?sdid=KQPOM&mv=search&ef_id=Cj0KCQiAgP6PBhDmARIsAPWMq6k3I4lWyouVjtzlsjk0-ffMUmtQ4kp5F7R66hnSf9nVyyIWPNvuEnwaAg5mEALw_wcB:G:s&s_kwcid=AL!3085!3!534509111641!e!!g!!adobe%20photoshop!188192502!10077842982&gclid=Cj0KCQiAgP6PBhDmARIsAPWMq6k3I4lWyouVjtzlsjk0-ffMUmtQ4kp5F7R66hnSf9nVyyIWPNvuEnwaAg5mEALw_wcB"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40px"/></a>
-    <a href="https://www.adobe.com/br/products/illustrator/campaign/pricing.html?sdid=KQPNY&mv=search&ef_id=Cj0KCQiAgP6PBhDmARIsAPWMq6nqelFa01Iw_z1uzq9_QSua5QI5jA0I8kEFd52wO-nVbgvkkXLIyIoaAh76EALw_wcB:G:s&s_kwcid=AL!3085!3!473120541057!e!!g!!adobe%20illustrator!188190582!110348310163&gclid=Cj0KCQiAgP6PBhDmARIsAPWMq6nqelFa01Iw_z1uzq9_QSua5QI5jA0I8kEFd52wO-nVbgvkkXLIyIoaAh76EALw_wcB"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40px"/></a>
-    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/></a>
-    <a href="https://nextjs.org"><img src="./icon/nextjs.svg" width="40px"/></a>
-</div>
+![React](https://img.shields.io/badge/React-0B1120?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0B1120?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1120?style=flat-square&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0B1120?style=flat-square&logo=tailwindcss)
+![Node.js](https://img.shields.io/badge/Node.js-0B1120?style=flat-square&logo=nodedotjs)
+![Docker](https://img.shields.io/badge/Docker-0B1120?style=flat-square&logo=docker)
+![Playwright](https://img.shields.io/badge/Playwright-0B1120?style=flat-square&logo=playwright)
+![Vercel](https://img.shields.io/badge/Vercel-0B1120?style=flat-square&logo=vercel)
 
+## Contact
 
-#
-
-<div id="contact-me">
-    <a href="https://api.whatsapp.com/message/BGWPXAI6HMLUC1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp-image"></a>
-    <a href="https://t.me/ageu_menezes" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram-image"></a>
-    <a href="mailto:ageumenezes23@gmail.com?subject=subject text" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail-image"></a>
-        <!--Fonte:https://pt.wikihow.com/Criar-um-Link-de-Email-em-HTML-->
-    <a href="https://www.linkedin.com/in/ageu-menezes-costa-307852197/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-image"></a>
-    <a href="https://ageumenezes-dev-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="linkedin-image" height="28em"></a>
-</div>
-
-<div>
-   <!-- [Snake animation](https://github.com/ageumenezesDev19/ageumenezesDev19/blob/output/github-contribution-grid-snake.svg) -->
-</div>
-<!-- Fonte de inspiração: https://youtu.be/TsaLQAetPLU (Rafaella Ballerini) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-F59E0B?style=flat-square&logo=googlechrome&logoColor=0B1120)](https://ageumenezes-dp-2.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ageu-menezes-silva-dev/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ageumenezes23@gmail.com)
