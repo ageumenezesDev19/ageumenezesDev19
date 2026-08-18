@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Ageu Menezes, a Front-End Developer who ships full products
-- 🏭 Currently the sole front-end engineer of a production inventory management system, used daily by a retail client (freelance, under NDA);
+- 🏭 Currently the sole front-end engineer of a production inventory management system, used daily by a retail client;
 - 📗 Trained full-stack at Trybe (1500-hour program) and specializing at Rocketseat — React, Next.js, Node.js, DDD and DevOps;
 - 🛠️ Building with React, Next.js, TypeScript, Tailwind CSS, Node.js, Docker and Playwright;
 
