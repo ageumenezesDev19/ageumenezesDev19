@@ -74,7 +74,7 @@
     </div>
 </div>
 -->
-#
+
 <!--
 <div id="my-hard-skills" style="text-align: center;">
     <a href="https://www.w3schools.com/js/js_intro.asp"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="border-radius: 5px;"/></a>
@@ -93,7 +93,7 @@
     <a href="https://nextjs.org"><img src="./icon/nextjs.svg" width="40px"/></a>
 </div>
 -->
-#
+
 
 <div id="contact-me">
     <a href="https://api.whatsapp.com/message/BGWPXAI6HMLUC1" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp-image"></a>
