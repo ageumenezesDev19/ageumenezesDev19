@@ -73,9 +73,9 @@
         <a href="http://github.com/ageumenezesDev19"><img aling="center" height="218em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ageumenezesDev19&layout=compact&theme=radical&card_width=446px"></a>
     </div>
 </div>
-
+-->
 #
-
+<!--
 <div id="my-hard-skills" style="text-align: center;">
     <a href="https://www.w3schools.com/js/js_intro.asp"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="border-radius: 5px;"/></a>
     <a href="https://www.w3schools.com/html/"><img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40px"/></a>
@@ -92,8 +92,7 @@
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/></a>
     <a href="https://nextjs.org"><img src="./icon/nextjs.svg" width="40px"/></a>
 </div>
-
-
+-->
 #
 
 <div id="contact-me">
@@ -109,4 +108,3 @@
    <!-- [Snake animation](https://github.com/ageumenezesDev19/ageumenezesDev19/blob/output/github-contribution-grid-snake.svg) -->
 </div>
 <!-- Fonte de inspiração: https://youtu.be/TsaLQAetPLU (Rafaella Ballerini) -->
--->
