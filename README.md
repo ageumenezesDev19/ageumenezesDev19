@@ -64,7 +64,7 @@
         <img src="/gif/line.gif" alt="Line Gif" style="margin: 0.5rem;">
     </a>
 </div>
-
+<!--
 <div id="gitHub-data" style="text-align: center;">
     <div id="gitHub-stats">
         <a href="http://github.com/ageumenezesDev19"><img aling="center" height="251em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ageumenezesDev19&show_icons=true&theme=radical&title_color=green"></a>
@@ -109,3 +109,4 @@
    <!-- [Snake animation](https://github.com/ageumenezesDev19/ageumenezesDev19/blob/output/github-contribution-grid-snake.svg) -->
 </div>
 <!-- Fonte de inspiração: https://youtu.be/TsaLQAetPLU (Rafaella Ballerini) -->
+-->
